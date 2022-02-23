@@ -1,0 +1,4 @@
+
+S
+java:S1128"6Remove this unused import 'javax.swing.border.Border'.(şŒ©ƒ8øÆÇ¡ò/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
